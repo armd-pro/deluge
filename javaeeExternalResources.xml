@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/soap/envelope/" location="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="urn:schemas-upnp-org:service:AVTransport:1" />
+  </component>
+</application>
