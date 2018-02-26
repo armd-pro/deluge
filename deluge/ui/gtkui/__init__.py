@@ -1,1 +1,0 @@
-from gtkui import start
