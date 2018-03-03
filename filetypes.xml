@@ -4,7 +4,9 @@
     <extensionMap>
       <mapping ext="qml" type="JavaScript" />
       <mapping pattern="class-shelve" type="PLAIN_TEXT" />
+      <removed_mapping ext="ui" approved="true" type="Qt UI file" />
       <mapping ext="glade" type="XML" />
+      <mapping ext="ui" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
