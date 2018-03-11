@@ -3,7 +3,6 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="qml" type="JavaScript" />
-      <mapping pattern="class-shelve" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <removed_mapping ext="ui" type="Qt UI file" />
       <mapping ext="glade" type="XML" />
