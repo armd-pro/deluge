@@ -1,0 +1,7 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Python/Convert between single-quoted and double-quoted strings" />
+    <ignoreAction name="Database/Run query in console" />
+    <ignoreAction name="Language Injection/Edit Injected Fragment" />
+  </component>
+</application>
