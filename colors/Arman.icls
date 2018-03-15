@@ -1,14 +1,19 @@
 <scheme name="Arman" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0833334" />
   <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="a6236" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="740091" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
