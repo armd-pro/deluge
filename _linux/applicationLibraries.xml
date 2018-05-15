@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="ipsp" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.fondy.eu_static_common_v1_checkout_ipsp.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.fondy.eu_static_common_v1_checkout_ipsp.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
