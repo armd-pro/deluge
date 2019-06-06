@@ -1,10 +1,20 @@
 <scheme name="Arman" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0833334" />
+  <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <attributes>
+    <option name="HTML_TAG">
+      <value />
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="2933e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="a6236" />
@@ -21,6 +31,12 @@
         <option name="FOREGROUND" value="6d2480" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="TEXT">
+      <value />
+    </option>
+    <option name="TWIG_BACKGROUND">
+      <value />
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
