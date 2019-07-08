@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="qml" type="JavaScript" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
       <mapping ext="glade" type="XML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
