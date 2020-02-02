@@ -1,4 +1,9 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="2c35558e-727c-4c70-bd18-2d036ed8252a" name="armd-pro">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
     <option name="AUTH_TYPE" value="TOKEN" />
   </component>
